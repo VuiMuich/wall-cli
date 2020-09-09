@@ -1,7 +1,7 @@
 # wall-cli
 
 A CLI program to set/get your wallpaper in MacOS/Windows/Linux.  
-It uses the `wall` library.
+Uses the [`wall`](https://github.com/agnipau/wall) library.
 
 #### License
 
