@@ -1,0 +1,15 @@
+[package]
+name = "wall-cli"
+version = "0.1.0"
+authors = ["Matteo G. <matteoguarda@tutanota.com>"]
+edition = "2018"
+
+[dependencies]
+wall = { path = "../wall" }
+clap = "2.33.3"
+anyhow = "1.0.32"
+
+[[bin]]
+name = "wall"
+path = "src/main.rs"
+
