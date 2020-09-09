@@ -1,6 +1,6 @@
 [package]
 name = "wall-cli"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Matteo G. <matteoguarda@tutanota.com>"]
 edition = "2018"
 description = "A OS and Desktop Environment indipendent get/set wallpaper library."
