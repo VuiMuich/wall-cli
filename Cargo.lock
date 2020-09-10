@@ -478,9 +478,9 @@ checksum = "f1bddf1187be692e79c5ffeab891132dfb0f236ed36a43c7ed39f1165ee20191"
 
 [[package]]
 name = "wall"
-version = "0.2.0"
+version = "0.2.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "24be5eb61a18fe87e2f217c25135896574e56af662cfc29a62c61cc618846bd4"
+checksum = "41d44988a46575dc1fbfb5f8c309cf28893b2ffbdd6b4b378d275e179a1b3938"
 dependencies = [
  "anyhow",
  "env_logger",
