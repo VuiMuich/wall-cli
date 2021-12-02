@@ -14,7 +14,7 @@ exclude = [
 ]
 
 [dependencies]
-wall = "0.2.1"
+wall = "0.2.3"
 clap = "2.33.3"
 anyhow = "1.0.32"
 
